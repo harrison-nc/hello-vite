@@ -1,0 +1,1 @@
+:root{box-sizing:border-box}*,*:before,*:after{margin:0;padding:0;box-sizing:inherit}:root{background-color:#099268;color:#c3fae8}body{height:100vh}main{max-width:95vw;margin:0 auto;text-align:justify;height:100%;display:flex;flex-direction:column;justify-content:center;gap:1rem}
